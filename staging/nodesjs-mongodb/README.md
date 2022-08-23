@@ -1,3 +1,4 @@
+:)
 ## Node.js and MongoDB on Kubernetes
 
 The following document describes the deployment of a basic Node.js and MongoDB web stack on Kubernetes.  Currently this example does not use replica sets for MongoDB.
